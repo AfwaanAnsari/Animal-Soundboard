@@ -99,3 +99,11 @@ footer {
     margin: 10px;
     background-color: white;
 }
+
+* {
+  user-select: none;
+}
+
+img {
+  pointer-events: none;
+}
